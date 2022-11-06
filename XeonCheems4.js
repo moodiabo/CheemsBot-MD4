@@ -10232,10 +10232,10 @@ case 'databasemenu':
 	if (isBanChat) return reply(mess.banChat)
 var unicorn = await getBuffer(picak+'Database Menu')
 await XeonBotInc.send5ButImg(from, `╔═══✪「 قائمه معلومات المطور 」	
-╠ ${prefix}رقم المطور/ https://api.whatsapp.com/send?phone=+201098906252
-╠ ${prefix}قناه اليوتيوب/ https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g
-╠ ${prefix}انستجرامي/ https://instagram.com/a_d_a_l_l_a_h?igshid=YmMyMTA2M2Y=
-╠ ${prefix}جروب الدعم/ https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn
+╠ ${prefix}رقم المطور/ https://wa.me/qr/FRBJ4V7BWWJAH1
+╠ ${prefix}قناه اليوتيوب/ https://youtube.com/channel/UC24R19unGafZlRVj4wz5wyw
+╠ ${prefix}قروب واتساب المطور/https://chat.whatsapp.com/ER0zgGIWMim5IDI4KjasT4 
+╠ ${prefix}جروب الدعم/ https://chat.whatsapp.com/ER0zgGIWMim5IDI4KjasT4
 ╚═════════════✪` + '' + ' ', `${botname}`,unicorn, [{"urlButton": {"displayText": "يوتيوب 📍","url": `${websitex}`}},{"urlButton": {"displayText": "الدعم🔖","url": `${botscript}`}},{"quickReplyButton": {"displayText": "تبرع 🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "المطور 👤","id": 'owner'}}] )
 break
 case 'indomenu':
@@ -10327,7 +10327,7 @@ case 'tqtt':
 	   if (isBan) return reply(mess.ban)
 	if (isBanChat) return reply(mess.banChat)
 reply(`اخواتي طبعا🌚❤️
-واخواتي اياتو ولوفي ورايزل واكازا واياد  
+مودي بحبكم 
 وشكرا لك ياللي بتستخدم البوت🌚❤️ `)
 break
             default:
