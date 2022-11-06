@@ -2,7 +2,7 @@
 
 <h1 align="center">⚜️ᗷOT Moodi ⚜️<br></h1>
 <p align="center">
-<img src="20221106_224740.jpg" alt="animated" width="540" height="280" />
+<img src="20221106_224740.jpg " alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 </p>
 
 <p align="center">
-<a href="https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+<a href="https://youtube.com/channel/UC24R19unGafZlRVj4wz5wyw"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
 
 ------
