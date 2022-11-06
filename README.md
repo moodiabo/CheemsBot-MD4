@@ -1,6 +1,6 @@
 
 
-<h1 align="center">⚜️ᗷOT ᗴᒪᘜᗩᘔᗩᖇ⚜️<br></h1>
+<h1 align="center">⚜️ᗷOT Moodi ⚜️<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/9d09a00e6c16ca29eead1.jpg" alt="animated" width="540" height="280" />
 </p>
@@ -48,16 +48,16 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 ## ```Bot Support Groups```
 
-- [`1st GC`](https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS)
-- [`2nd GC`](https://chat.whatsapp.com/LS1Xx3fSqg7FpSYSjKWhL5)
-- [`3rd GC`](https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd)
+- [`1st GC`](https://wa.me/qr/FRBJ4V7BWWJAH1)
+- [`2nd GC`](https://chat.whatsapp.com/ER0zgGIWMim5IDI4KjasT4)
+- [`3rd GC`](https://youtube.com/channel/UC24R19unGafZlRVj4wz5wyw)
 
 # الاستعداد للفورك 👇
 
 - FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD4/fork)
 
 ## `نشر`
-<a href="https://replit.com/@bm077197/BOT-ELGAZAR-QR?v=1"><img src="https://i.ibb.co/pPQjJL2/replit-logo-png-transparent.png" alt="replit-logo-png-transparent" border="0"  width="120"></a>
+<a href="https://replit.com/@bm077197/BOT-Moodi-QR?v=1"><img src="https://i.ibb.co/pPQjJL2/replit-logo-png-transparent.png" alt="replit-logo-png-transparent" border="0"  width="120"></a>
 
 ## `SETTINGS`
 
